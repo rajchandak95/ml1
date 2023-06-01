@@ -6,3 +6,5 @@
 -feature (create new feature and push to qa)
 
 Project is about to create a stock recommendation app
+
+The project is used for hedging the portfolio
